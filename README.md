@@ -18,11 +18,15 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/T-SNE1.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/TSNE2.png) <br />
 
+## 6. Layer visualization by Inverted image
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/inv.png) <br />
+
 ## References
 [1] Springenberg, Jost Tobias, et al. "Striving for simplicity: The all convolutional net." arXiv preprint arXiv:1412.6806 (2014). <br />
 [2]. https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030. <br />
 [3] Zeiler, Matthew D., and Rob Fergus. "Visualizing and understanding convolutional networks." European conference on computer vision. Springer, Cham, 2014. <br />
 [4] Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605. <br />
-
+[5] https://www.datacamp.com/community/tutorials/introduction-t-sne <br />
+[6] Mahendran, Aravindh, and Andrea Vedaldi. "Understanding deep image representations by inverting them." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. <br />
 
 
