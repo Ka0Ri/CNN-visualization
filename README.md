@@ -1,4 +1,4 @@
-# CNN-visualization
+# Visualization
 
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/be.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/be1.png) <br />
