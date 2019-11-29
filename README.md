@@ -1,10 +1,10 @@
 # Visualization
 this respository contains a few methods to visualize and understand Deep Neural Network
-## 1. Feature map visualization [1],[2]
+## 1. Feature map visualization [1, 2]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/we1.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/we.png) <br />
 
-## 2. Top activation maps that respone with an input image [1],[2]
+## 2. Top activation maps that respone with an input image [1, 2]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/be.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/be1.png) <br />
 
@@ -14,11 +14,11 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ## 4. Intepretating by Occluding method [3]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/oc.png) <br />
 
-## 5. Distribution visualization using T-SNE [4]
+## 5. Distribution visualization using T-SNE [4, 5]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/T-SNE1.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/TSNE2.png) <br />
 
-## 6. Layer visualization by Inverted image
+## 6. Layer visualization by Inverted image [6]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/inv.png) <br />
 
 ## References
