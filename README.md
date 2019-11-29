@@ -15,7 +15,7 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/oc.png) <br />
 
 ## 5. Distribution visualization using T-SNE [4]
-![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/TSN1/oc.png) <br />
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/T-SN1/oc.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/TSN2/oc.png) <br />
 
 ## References
