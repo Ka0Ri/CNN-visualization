@@ -23,3 +23,4 @@ this respository contains a few methods to visualize and understand Deep Neural 
 [4] Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605.
 
 
+
