@@ -14,6 +14,10 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ## 4. Intepretating by Occluding method [2]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/oc.png) <br />
 
+## Distribution visualization using T-SNE [3]
+
 ## References
 [1] Springenberg, Jost Tobias, et al. "Striving for simplicity: The all convolutional net." arXiv preprint arXiv:1412.6806 (2014).
 [2] Zeiler, Matthew D., and Rob Fergus. "Visualizing and understanding convolutional networks." European conference on computer vision. Springer, Cham, 2014.
+[3] Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605.
+
