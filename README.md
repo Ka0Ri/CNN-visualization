@@ -1,6 +1,6 @@
 # Visualization
 this respository contains a few methods to visualize and understand Deep Neural Network
-##Feature map visualize
+## Feature map visualization
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/be.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/be1.png) <br />
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/we1.png) <br />
