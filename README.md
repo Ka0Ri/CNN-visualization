@@ -15,8 +15,8 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/oc.png) <br />
 
 ## 5. Distribution visualization using T-SNE [4]
-![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/T-SN1.png) <br />
-![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/TSN2.png) <br />
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/T-SNE1.png) <br />
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/TSNE2.png) <br />
 
 ## References
 [1] Springenberg, Jost Tobias, et al. "Striving for simplicity: The all convolutional net." arXiv preprint arXiv:1412.6806 (2014). <br />
