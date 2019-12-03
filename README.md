@@ -21,6 +21,8 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ## 6. Layer visualization by Inverted image [6]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/inv.png) <br />
 
+## 7. Attention by Random occlusions [7]
+
 ## References
 [1] Springenberg, Jost Tobias, et al. "Striving for simplicity: The all convolutional net." arXiv preprint arXiv:1412.6806 (2014). <br />
 [2]. https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030. <br />
@@ -28,5 +30,6 @@ this respository contains a few methods to visualize and understand Deep Neural 
 [4] Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605. <br />
 [5] https://www.datacamp.com/community/tutorials/introduction-t-sne <br />
 [6] Mahendran, Aravindh, and Andrea Vedaldi. "Understanding deep image representations by inverting them." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. <br />
+[7] Petsiuk, Vitali, Abir Das, and Kate Saenko. "Rise: Randomized input sampling for explanation of black-box models." arXiv preprint arXiv:1806.07421 (2018). <br />
 
 
