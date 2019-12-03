@@ -24,6 +24,12 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ## 7. Attention by Random occlusions [7]
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/RISE.png) <br />
 
+## 8.Class visualization [1]
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/class.png) <br />
+
+## 9. Guided Backpropagation to visualize
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/guided.png) <br />
+
 ## References
 [1] Springenberg, Jost Tobias, et al. "Striving for simplicity: The all convolutional net." arXiv preprint arXiv:1412.6806 (2014). <br />
 [2]. https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030. <br />
@@ -32,5 +38,6 @@ this respository contains a few methods to visualize and understand Deep Neural 
 [5] https://www.datacamp.com/community/tutorials/introduction-t-sne <br />
 [6] Mahendran, Aravindh, and Andrea Vedaldi. "Understanding deep image representations by inverting them." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. <br />
 [7] Petsiuk, Vitali, Abir Das, and Kate Saenko. "Rise: Randomized input sampling for explanation of black-box models." arXiv preprint arXiv:1806.07421 (2018). <br />
+[8] Petsiuk, Vitali, Abir Das, and Kate Saenko. "Rise: Randomized input sampling for explanation of black-box models." arXiv preprint arXiv:1806.07421 (2018). <br />
 
 
