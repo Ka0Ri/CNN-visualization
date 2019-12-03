@@ -22,6 +22,7 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/inv.png) <br />
 
 ## 7. Attention by Random occlusions [7]
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/RISE.png) <br />
 
 ## References
 [1] Springenberg, Jost Tobias, et al. "Striving for simplicity: The all convolutional net." arXiv preprint arXiv:1412.6806 (2014). <br />
