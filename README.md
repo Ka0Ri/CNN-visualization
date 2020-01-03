@@ -31,7 +31,7 @@ this respository contains a few methods to visualize and understand Deep Neural 
 ![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/guided.png) <br />
 
 ## 10. Grad-Cam [8, 9, 10]
-![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/cam.png) <br />
+![alt text](https://github.com/Ka0Ri/CNN-visualization/blob/master/img/grad-cam.png) <br />
 ## References
 [1] Springenberg, Jost Tobias, et al. "Striving for simplicity: The all convolutional net." arXiv preprint arXiv:1412.6806 (2014). <br />
 [2]. https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030. <br />
